@@ -19,13 +19,13 @@ Horizontal Passage Bias Mazes generated with a depth-first search have a low bra
 ## Recursive implementation
 
 The depth-first search algorithm of maze generation is frequently implemented using backtracking. This can be described with a following recursive routine:
-
+```
 1.Given a current cell as a parameter,
 2.Mark the current cell as visited
 3.While the current cell has any unvisited neighbour cells
    1.Choose one of the unvisited neighbours
    2.Remove the wall between the current cell and the chosen cell
    3.Invoke the routine recursively for a chosen cell
-   
+```
    
    
