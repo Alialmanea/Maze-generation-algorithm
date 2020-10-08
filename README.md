@@ -28,5 +28,5 @@ The depth-first search algorithm of maze generation is frequently implemented us
    3.Invoke the routine recursively for a chosen cell
 ```
    
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Graph_based_maze_animation.gif/220px-Graph_based_maze_animation.gif" title=""/>
+<img src="https://github.com/Alialmanea/Maze-generation-algorithm/blob/main/Webp.net-gifmaker.gif" title=""/>
 
